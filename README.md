@@ -9,9 +9,9 @@ Ensemble de notebooks sur le programme de première NSI
 
 ● *les fonctions* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_premiere/HEAD?urlpath=%2Fnotebooks%2Fles_fonctions%2Fles_fonctions.ipynb)
 
-● *les chaines* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_premiere/HEAD?urlpath=%2Fnotebooks%2Fles_chaines%2Fles_chaines.ipynb)
-
 ● *boucles for* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_premiere/HEAD?urlpath=%2Fnotebooks%2Fboucles_for%2Fles_boucles_for.ipynb)
+
+● *les chaines* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_premiere/HEAD?urlpath=%2Fnotebooks%2Fles_chaines%2Fles_chaines.ipynb)
 
 ● *Les listes* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_premiere/HEAD?urlpath=%2Fnotebooks%2Fles_listes%2Fles_listes.ipynb)
 
