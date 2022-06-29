@@ -13,3 +13,5 @@ Ensemble de notebooks sur le programme de première NSI
 
 ● *boucles for* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_premiere/HEAD?urlpath=%2Fnotebooks%2Fboucles_for%2Fles_boucles_for.ipynb)
 
+● *Les listes* : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/NSI_premiere/HEAD?urlpath=%2Fnotebooks%2Fles_listes%2Fles_listes.ipynb)
+
